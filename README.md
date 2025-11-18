@@ -41,7 +41,7 @@ Coherence is when the different parts of a system move in alignment instead of w
                          ↓
 
                   Attention Ecology
-   Practices that stabilize focus and strengthen
+      Practices that stabilize focus and strengthen
                    daily coherence
 
 
