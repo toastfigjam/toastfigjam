@@ -26,8 +26,8 @@ Coherence is when the different parts of a system move in alignment instead of w
 ---
 
 #### projects I'm building
-- **coherence-engine** — A framework for helping organizations understand their pacing, load, and cognitive bandwidth. 
-- **internal-economy** — a reframe of productivity and finance around energy, attention, and meaning  
+- **[coherence-engine](https://github.com/yourusername/coherence-engine)** — A framework for helping organizations understand their pacing, load, and cognitive bandwidth. 
+- **[internal-economy](https://github.com/yourusername/internal-economy)** — a reframe of productivity and finance around energy, attention, and meaning  
 - **attention-garden** — rituals + scripts for cultivating focus in an age of hyperstimulation  
 - **commons-ledger** — Models for money, time, and resource flow that support regeneration.
 - **data-for-humanity** — visual systems that make wellbeing measurable without losing soul
