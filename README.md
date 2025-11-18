@@ -1,35 +1,42 @@
 ### hi, i’m hasna. 
 
-designer & writer exploring how technology can amplify **creative power, coherence, and collective aliveness.**
+I’m an analyst, designer and writer exploring how technology can support coherence: clearer thinking, better decisions, and overall healthier systems.
 
-i’m building tools and ideas that bring the body back into the loop —  
-where automation, data, and design become extensions of human rhythm rather than replacements for it.
+I care about how humans actually work: how we focus, how we lose focus, how teams get overwhelmed, and what it takes for people to do good work without running themselves into the ground. My approach is simple. I look at how biology, attention, and energy move, and I design around that.
 
-> technology should regulate, not dysregulate.  
-> it should free the human system, not run it.
+To me, technology should steady the human system, not push it off balance.
+Data should help people see clearly and not drown them in noise.
+Automation should extend human capability, not erase what makes us creative.
+
+What is Coherence?
+Coherence is when the different parts of a system move in alignment instead of working against each other. It creates clear thinking, steady focus, and predictable decision making. When a system is coherent, it stops wasting energy on friction and can use its intelligence more effectively
 
 ---
 
 #### what this space explores
-- **humane automation** — systems that adapt to human rhythm and restore agency  
-- **living data** — dashboards and frameworks that track clarity, not just output  
-- **creative infrastructure** — tools that strengthen imagination and coherence at scale  
-- **regenerative design** — workflows that give back more energy than they take
+
+**Humane automation:** Tools and processes that work with human rhythm instead of forcing people to push past it.
+
+**Living data:** Dashboards that show clarity, load, and focus, not just output.
+
+**Creative infrastructure:** Systems that make it easier for people to think deeply, collaborate well, and generate strong ideas.
+
+**Regenerative desig:n** Workflows that protect long-term intelligence instead of draining it.
 
 ---
 
-#### projects in motion
-- **coherence-engine** — experiments in automation that sync with circadian and creative flow  
+#### projects I'm building
+- **coherence-engine** — A framework for helping organizations understand their pacing, load, and cognitive bandwidth. 
 - **internal-economy** — a reframe of productivity and finance around energy, attention, and meaning  
 - **attention-garden** — rituals + scripts for cultivating focus in an age of hyperstimulation  
-- **commons-ledger** — open models for money, energy, and resource flow that prioritize regeneration  
+- **commons-ledger** — Models for money, time, and resource flow that support regeneration.
 - **data-for-humanity** — visual systems that make wellbeing measurable without losing soul
 
 ---
 
 #### north star
-> design is nervous-system architecture.  
-> when our tools align with biology, creativity becomes inevitable.
+
+Through Toast & Fig Jam, I explore the place where science, human experience, and systems design meet. My aim is straightforward: build environments where presence, clarity, and imagination are treated as core parts of progress.
 
 ---
 
