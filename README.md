@@ -29,7 +29,7 @@ Coherence is when the different parts of a system move in alignment instead of w
                  Coherence Trilogy
 
                  Coherence Engine
-       Organizational rhythm, pacing,
+      Organizational rhythm, pacing,
           cognitive load, clarity
 
                          ↓
@@ -41,8 +41,8 @@ Coherence is when the different parts of a system move in alignment instead of w
                          ↓
 
                   Attention Ecology
-      Practices that stabilize focus and strengthen
-                   daily coherence
+      Practices that stabilize focus and 
+           strengthen daily coherence
 
 
 ---
