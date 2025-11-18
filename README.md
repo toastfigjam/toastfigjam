@@ -24,6 +24,25 @@ Coherence is when the different parts of a system move in alignment instead of w
 **Regenerative desig:n** Workflows that protect long-term intelligence instead of draining it.
 
 ---
+#### Coherence trilogy
+
+           Coherence Engine
+   Organizational rhythm, pacing, 
+       cognitive load, clarity
+
+                    ↓
+
+            Internal Economy
+ How attention, energy, and meaning 
+         flow inside a system
+
+                    ↓
+
+           Attention Ecology
+ Practices that stabilize focus and 
+       strengthen daily coherence
+
+---
 
 #### projects I'm building
 - **[coherence-engine](https://github.com/toastfigjam/coherence-engine)** — A framework for helping organizations understand their pacing, load, and cognitive bandwidth. 
