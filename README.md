@@ -26,21 +26,24 @@ Coherence is when the different parts of a system move in alignment instead of w
 ---
 #### Coherence trilogy
 
-           Coherence Engine
-   Organizational rhythm, pacing, 
-       cognitive load, clarity
+                 Coherence Trilogy
 
-                    ↓
+                 Coherence Engine
+       Organizational rhythm, pacing,
+          cognitive load, clarity
 
-            Internal Economy
- How attention, energy, and meaning 
-         flow inside a system
+                         ↓
 
-                    ↓
+                  Internal Economy
+      How attention, energy, and meaning
+           flow inside a system
 
-           Attention Ecology
- Practices that stabilize focus and 
-       strengthen daily coherence
+                         ↓
+
+                  Attention Ecology
+   Practices that stabilize focus and strengthen
+                   daily coherence
+
 
 ---
 
