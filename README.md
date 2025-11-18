@@ -24,9 +24,7 @@ Coherence is when the different parts of a system move in alignment instead of w
 **Regenerative desig:n** Workflows that protect long-term intelligence instead of draining it.
 
 ---
-#### Coherence trilogy
-
-                 Coherence Trilogy
+#### Coherence trilogy diagram
 
                  Coherence Engine
       Organizational rhythm, pacing,
